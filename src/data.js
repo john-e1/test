@@ -1,0 +1,22 @@
+export const data = [
+    {"job_name": "Software Engineer", "date_applied": "2024-05-01"},
+    {"job_name": "Data Analyst", "date_applied": "2024-05-01"},
+    {"job_name": "Product Manager", "date_applied": "2024-05-03"},
+    {"job_name": "UX Designer", "date_applied": "2024-05-01"},
+    {"job_name": "Marketing Coordinator", "date_applied": "2024-05-05"},
+    {"job_name": "Marketing Coordinator", "date_applied": "2024-05-05"},
+    {"job_name": "HR Specialist", "date_applied": "2024-05-07"},
+    {"job_name": "Customer Support Representative", "date_applied": "2024-05-08"},
+    {"job_name": "Operations Manager", "date_applied": "2024-05-09"},
+    {"job_name": "Quality Assurance Tester", "date_applied": "2024-05-10"},
+    {"job_name": "Graphic Designer", "date_applied": "2024-05-11"},
+    {"job_name": "Business Analyst", "date_applied": "2024-05-12"},
+    {"job_name": "Sales Associate", "date_applied": "2024-05-13"},
+    {"job_name": "Network Administrator", "date_applied": "2024-05-14"},
+    {"job_name": "Content Writer", "date_applied": "2024-05-15"},
+    {"job_name": "Project Manager", "date_applied": "2024-05-16"},
+    {"job_name": "Legal Assistant", "date_applied": "2024-05-17"},
+    {"job_name": "Systems Engineer", "date_applied": "2024-05-18"},
+    {"job_name": "Research Scientist", "date_applied": "2024-05-19"},
+    {"job_name": "Administrative Assistant", "date_applied": "2024-05-20"}
+]
